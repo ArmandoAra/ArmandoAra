@@ -1,6 +1,5 @@
-# Hi, I'm Armando Ara 👋
-
-### Mobile & Web Developer · React Native Specialist
+# Hi, I'm Armando Arano
+### Mobile & Web Developer
 
 Software developer focused on building high-performance, privacy-centric applications. I specialize in the React ecosystem, leveraging the **New Architecture** of React Native to create seamless mobile experiences.
 
@@ -31,8 +30,8 @@ Software developer focused on building high-performance, privacy-centric applica
 
 ## 📊 GitHub Stats
 
-[![Armando's Stats](https://github-readme-stats.vercel.app/api?username=ArmandoAra&show_icons=true&theme=radical&hide_border=true)](https://github.com/ArmandoAra)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAra&layout=compact&theme=radical&hide_border=true)](https://github.com/ArmandoAra)
+[![Armando's Stats](https://github-readme-stats.vercel.app/api?username=ArmandoAra&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/ArmandoAra)
+[![Stats](https://github-stats.pufler.dev/api?username=ArmandoAra&theme=dark)](https://github.com/ArmandoAra)
 
 ---
 
