@@ -28,13 +28,6 @@ Software developer focused on building high-performance, privacy-centric applica
 
 ---
 
-## 📊 GitHub Stats
-
-[![Armando's Stats](https://github-readme-stats.vercel.app/api?username=ArmandoAra&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/ArmandoAra)
-[![Stats](https://github-stats.pufler.dev/api?username=ArmandoAra&theme=dark)](https://github.com/ArmandoAra)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-arano-88b0b0203/)
