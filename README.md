@@ -25,7 +25,7 @@ I'm a software developer focused on building high-performance, privacy-centric a
 * **Architecture:** Implemented **Zustand** for state management and **Shopify FlashList** for high-performance rendering of thousands of records.
 * **Privacy:** Built with a "Privacy-by-Design" approach, ensuring data never leaves the device.
 
-👉 [View Repository](https://github.com/ArmandoAra/spendiary) | 📱 [Get it on Play Store](#)
+👉 [View Repository](https://github.com/ArmandoAra/spendiary) 
 
 ---
 
@@ -40,8 +40,8 @@ I'm a software developer focused on building high-performance, privacy-centric a
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- 📧 **Email:** [tu-email@dominio.com]
-- 🌐 **Portfolio:** [tu-web.com]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/armando-arano-88b0b0203/
+- 📧 **Email:** armando_apps@outlook.com
+- 🌐 **Portfolio:** https://armandoarano.com/
 
 *"I don't just write code; I build privacy-first solutions that scale."*
